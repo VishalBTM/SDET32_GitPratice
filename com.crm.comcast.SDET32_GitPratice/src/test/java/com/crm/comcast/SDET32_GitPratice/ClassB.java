@@ -9,6 +9,8 @@ public class ClassB {
 		
 		System.out.println("Push 2");
 		System.out.println("Push 3");
+		System.out.println("Push 4");
+
 
 	}
 }
